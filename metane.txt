@@ -1,4 +1,4 @@
 babo
 min 
 
-another conflict causing
+conflict solved
